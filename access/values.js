@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "03.01.2004"; // Дата рождения
-var fullname = "Хрящів Константин Юрійович" // ФИО
+var birthdate = "19.09.2003"; // Дата рождения
+var fullname = "Тертицький Михайло Ігорович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
